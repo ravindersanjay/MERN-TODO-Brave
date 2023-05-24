@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "641608a433ef4fee8cca492a"
+  },
+  "text": "Veg vs Non-Veg ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64160c8a63a108a09a26591c"
+  },
+  "text": "Sanatan Dharm vs Islam",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641691a8bf4b7965955c6e66"
+  },
+  "text": "Aarya Samaaj vs Iskon",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641811f8430b64118c879f0a"
+  },
+  "text": "BJP vs Congress",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641b46bac5575b86783b5f79"
+  },
+  "text": "Modi vs All",
+  "__v": 0
+}]
